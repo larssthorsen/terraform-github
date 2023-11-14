@@ -1,0 +1,6 @@
+rg_backend_name           = "rg-backend-tfstate-lst"
+rg_backend_location       = "westeurope"
+sa_backend_name           = "sabetfs"
+sc_backend_name           = "tfstate"
+kv_backend_name           = "kvbe"
+sa_backend_accesskey_name = "sa-backend-acceskey-lst"
